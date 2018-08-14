@@ -5,7 +5,7 @@
  *  --------->    DATE: 12/28/2015    TIME:16:06:36
  ************************************************************************/
 
-/*#include "check.h"*/
+#include "check.h"
 #include "uni_test.h"
 #include "add.h"
 START_TEST(test_add) {
