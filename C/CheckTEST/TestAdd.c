@@ -6,7 +6,7 @@
  ************************************************************************/
 
 #include <stdio.h>
-/*#include "check.h"*/
+#include "check.h"
 #include <stdlib.h>
 
 int add(int x1, int x2) {
